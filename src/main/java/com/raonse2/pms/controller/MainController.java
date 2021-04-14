@@ -1,4 +1,4 @@
-package com.raonse2.pms;
+package com.raonse2.pms.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
